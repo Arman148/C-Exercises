@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\Studovanie\ZPRPR2\Cvičenia\CV_8\CV_8\Source.c(17,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Studovanie\ZPRPR2\Cvičenia\CV_8\CV_8\Source.c(25,33): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Studovanie\ZPRPR2\Cvičenia\CV_8\CV_8\Source.c(11,32): warning C4101: str1: неиспользованная локальная переменная
+D:\Studovanie\ZPRPR2\Cvičenia\CV_8\CV_8\Source.c(13,11): warning C4101: ptr: неиспользованная локальная переменная
+  CV_8.vcxproj -> D:\Studovanie\ZPRPR2\Cvičenia\CV_8\Debug\CV_8.exe

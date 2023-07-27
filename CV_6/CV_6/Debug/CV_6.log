@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\Studovanie\ZPRPR2\Cvičenia\CV_6\CV_6\Source.c(116,13): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\Studovanie\ZPRPR2\Cvičenia\CV_6\CV_6\Source.c(116,13): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+D:\Studovanie\ZPRPR2\Cvičenia\CV_6\CV_6\Source.c(91): warning C4715: CurrentLength: значение возвращается не при всех путях выполнения
+  CV_6.vcxproj -> D:\Studovanie\ZPRPR2\Cvičenia\CV_6\Debug\CV_6.exe

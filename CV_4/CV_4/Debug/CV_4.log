@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\Studovanie\ZPRPR2\Cvičenia\CV_4\CV_4\Source.c(7,21): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Studovanie\ZPRPR2\Cvičenia\CV_4\CV_4\Source.c(8,13): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+D:\Studovanie\ZPRPR2\Cvičenia\CV_4\CV_4\Source.c(15,13): warning C4047: return: "int" отличается по уровням косвенного обращения от "int *"
+D:\Studovanie\ZPRPR2\Cvičenia\CV_4\CV_4\Source.c(22): warning C4716: vypis: должна возвращать значение
+  CV_4.vcxproj -> D:\Studovanie\ZPRPR2\Cvičenia\CV_4\Debug\CV_4.exe
